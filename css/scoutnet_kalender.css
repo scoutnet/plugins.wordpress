@@ -1,0 +1,19 @@
+.snk_widget {
+
+}
+
+.snk_widget .snk_title {
+    /* cursor : pointer; */
+}
+
+.snk_widget .snk_description {
+    /* display : none; */
+}
+
+.snk_widget .snk_author {
+    /* display : none; */
+}
+
+.snk_title {
+    color: red;
+}
